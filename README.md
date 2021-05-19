@@ -1,2 +1,2 @@
 # samples
-sample codes
+sample codes. This is for learning.
