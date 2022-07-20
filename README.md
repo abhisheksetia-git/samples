@@ -1,3 +1,1 @@
-# samples
-sample codes. This is for learning.
-Sample
+.gitignore file allows git not to track mentioned files
